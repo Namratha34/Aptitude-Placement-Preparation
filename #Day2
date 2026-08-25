@@ -1,0 +1,367 @@
+# 📚 Aptitude Preparation — Day 2
+
+## 🎯 Topics Covered
+
+Today I completed:
+
+- Factors
+- Multiples
+- HCF (Highest Common Factor)
+- LCM (Least Common Multiple)
+- Placement Tricks related to Factors, HCF & LCM
+
+---
+
+## 1️⃣ Factors
+
+A **factor** of a number is a number that divides it exactly, leaving remainder `0`.
+
+Example:
+
+`6 = 1 × 6`  
+`6 = 2 × 3`
+
+Therefore:
+
+**Factors of 6 = 1, 2, 3, 6**
+
+### Factor Pairs
+
+For 36:
+
+`1 × 36`  
+`2 × 18`  
+`3 × 12`  
+`4 × 9`  
+`6 × 6`
+
+Therefore:
+
+**Factors of 36 = 1, 2, 3, 4, 6, 9, 12, 18, 36**
+
+### ⭐ Trick: Number of Factors
+
+First find the prime factorization.
+
+Example:
+
+`36 = 2² × 3²`
+
+Number of factors:
+
+`(2 + 1)(2 + 1)`
+
+`= 3 × 3`
+
+`= 9`
+
+### General Formula
+
+If:
+
+`N = Aᵖ × Bᑫ × Cʳ`
+
+Then:
+
+**Number of factors = (p + 1)(q + 1)(r + 1)**
+
+The `+1` is because each prime can have a power from `0` up to its given exponent.
+
+---
+
+## 2️⃣ Finding Factors of a Big Number
+
+When asked to **find all factors**, use factor pairs.
+
+We only need to check possible divisors up to:
+
+**√N**
+
+Whenever a divisor is found:
+
+**Other factor = N ÷ divisor**
+
+Example:
+
+For 360, instead of checking all numbers up to 360, check only up to approximately:
+
+`√360 ≈ 19`
+
+This saves time in placement exams.
+
+---
+
+## 3️⃣ Checking Whether a Number is a Factor
+
+To check whether `X` is a factor of `N`:
+
+**N ÷ X must give remainder 0.**
+
+Example:
+
+`42 ÷ 7 = 6`
+
+Remainder = `0`
+
+Therefore, **7 is a factor of 42.**
+
+This is essentially a divisibility check.
+
+---
+
+## 4️⃣ Multiples
+
+A **multiple** is obtained by multiplying a number by positive integers.
+
+Example:
+
+Multiples of 5:
+
+`5, 10, 15, 20, 25, 30...`
+
+### Easy Difference
+
+**Factors → divide INTO a number**
+
+**Multiples → come FROM multiplication**
+
+Example:
+
+- 3 is a factor of 12 ✅
+- 12 is a multiple of 3 ✅
+
+---
+
+# 5️⃣ HCF
+
+**HCF = Highest Common Factor**
+
+The HCF is the **largest factor common to two or more numbers**.
+
+Example:
+
+12 → `1, 2, 3, 4, 6, 12`
+
+18 → `1, 2, 3, 6, 9, 18`
+
+Common factors:
+
+`1, 2, 3, 6`
+
+Therefore:
+
+**HCF = 6**
+
+### ⭐ HCF Prime Factorization Trick
+
+Take the **common prime factors with the smallest powers**.
+
+Example:
+
+`24 = 2³ × 3`
+
+`36 = 2² × 3²`
+
+HCF:
+
+`2² × 3`
+
+**HCF = 12**
+
+### Remember:
+
+**HCF → Lowest powers**
+
+---
+
+# 6️⃣ LCM
+
+**LCM = Least Common Multiple**
+
+The LCM is the **smallest positive multiple common to two or more numbers**.
+
+Example:
+
+Multiples of 4:
+
+`4, 8, 12, 16, 20...`
+
+Multiples of 6:
+
+`6, 12, 18, 24...`
+
+First common multiple = `12`
+
+Therefore:
+
+**LCM = 12**
+
+### ⭐ LCM Prime Factorization Trick
+
+Take **all prime factors with the highest powers**.
+
+Example:
+
+`24 = 2³ × 3`
+
+`36 = 2² × 3²`
+
+LCM:
+
+`2³ × 3²`
+
+**LCM = 72**
+
+### Remember:
+
+**LCM → Highest powers**
+
+---
+
+# 7️⃣ HCF × LCM Trick ⭐⭐⭐
+
+For **two numbers**:
+
+**HCF × LCM = Product of the two numbers**
+
+Example:
+
+Numbers = 12 and 18
+
+HCF = 6  
+LCM = 36
+
+`6 × 36 = 12 × 18`
+
+`216 = 216` ✅
+
+### Placement Use
+
+If:
+
+- HCF = 4
+- LCM = 60
+- One number = 12
+
+Then:
+
+`4 × 60 = 12 × x`
+
+`x = 20`
+
+Therefore, the other number is **20**.
+
+---
+
+# 8️⃣ Co-Prime Numbers
+
+Two numbers are **co-prime** if their HCF is `1`.
+
+Example:
+
+8 and 15
+
+**HCF(8,15) = 1**
+
+Therefore, they are co-prime.
+
+### Important
+
+Co-prime numbers **do not have to be prime numbers**.
+
+Example:
+
+8 and 9 are both composite, but:
+
+**HCF(8,9) = 1**
+
+Therefore, they are co-prime.
+
+---
+
+# 9️⃣ Co-Prime LCM Trick
+
+If two numbers are co-prime:
+
+**LCM = Product of the numbers**
+
+Example:
+
+8 and 15:
+
+`LCM = 8 × 15 = 120`
+
+---
+
+# 🔟 HCF by Division Method ⭐
+
+Use the Euclidean division method for large numbers.
+
+Example:
+
+Find HCF of 48 and 18:
+
+`48 ÷ 18 → remainder 12`
+
+`18 ÷ 12 → remainder 6`
+
+`12 ÷ 6 → remainder 0`
+
+### Important Rule:
+
+**The last non-zero remainder is the HCF.**
+
+Therefore:
+
+**HCF = 6**
+
+When the remainder becomes `0`, stop. Do **not** take `0` as the HCF.
+
+---
+
+# 🧠 Day 2 Placement Cheat Sheet
+
+| Concept | Shortcut |
+|---|---|
+| Number of factors | `(p+1)(q+1)(r+1)` |
+| Find all factors | Check up to `√N` and form factor pairs |
+| Check a factor | Remainder must be `0` |
+| HCF | Common prime factors + **lowest powers** |
+| LCM | All prime factors + **highest powers** |
+| Two numbers | `HCF × LCM = Product` |
+| Co-prime | HCF = `1` |
+| Co-prime LCM | Product of the numbers |
+| HCF by division | Last **non-zero remainder** |
+
+---
+
+## 📈 Progress
+
+### Phase 1 → Quantitative Aptitude → Number System
+
+- [x] Number System Basics
+- [x] Natural Numbers
+- [x] Whole Numbers
+- [x] Integers
+- [x] Even & Odd Numbers
+- [x] Prime & Composite Numbers
+- [x] Factors
+- [x] Multiples
+- [x] HCF
+- [x] LCM
+- [ ] Divisibility Rules
+- [ ] Remainders
+- [ ] Unit Digit
+- [ ] Last Digits
+
+---
+
+## 💡 Day 2 Takeaway
+
+Today I learned how to work with **Factors, Multiples, HCF and LCM**, along with important shortcuts used in aptitude and placement examinations.
+
+> **Understand the concept first. Learn the shortcut second. Practice until it becomes automatic. 🚀**
+
+---
+
+**#Aptitude #QuantitativeAptitude #PlacementPreparation #Day2 #Factors #Multiples #HCF #LCM #LearningInPublic #ProblemSolving #GitHubJourney**
