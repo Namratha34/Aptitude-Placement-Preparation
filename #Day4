@@ -1,0 +1,266 @@
+# 📚 Aptitude Preparation — Day 4
+
+## 🎯 Topic: Remainders
+
+Today I learned the **Remainder Theorem / Remainder Concepts** as part of my Quantitative Aptitude preparation.
+
+I practiced finding remainders for:
+
+- Normal numbers
+- Addition of numbers
+- Multiplication of numbers
+- Powers
+- Large numbers
+- Polynomial expressions
+
+I also solved **10 practice questions**.
+
+---
+
+# 🧠 Basic Remainder Concept
+
+When a number is divided by another number:
+
+**Dividend = Divisor × Quotient + Remainder**
+
+Example:
+
+`23 ÷ 5`
+
+`5 × 4 = 20`
+
+Remainder = `3`
+
+Therefore:
+
+`23 = 5 × 4 + 3`
+
+### Important Rule
+
+> **Remainder is always less than the divisor.**
+
+If the divisor is `5`, possible remainders are:
+
+`0, 1, 2, 3, 4`
+
+---
+
+# 📌 Practice Questions
+
+## 1️⃣ Find the remainder:
+
+### `23 ÷ 5`
+
+`23 = 5 × 4 + 3`
+
+**Answer: 3**
+
+---
+
+## 2️⃣ Find the remainder:
+
+### `17 ÷ 6`
+
+`17 = 6 × 2 + 5`
+
+**Answer: 5**
+
+---
+
+## 3️⃣ Find the remainder:
+
+### `(86 × 23) ÷ 11`
+
+First:
+
+`86 ÷ 11 → Remainder = 9`
+
+`23 ÷ 11 → Remainder = 1`
+
+Therefore:
+
+`9 × 1 = 9`
+
+**Answer: 9**
+
+---
+
+## 4️⃣ Find the remainder:
+
+### `(38 + 71 + 8) ÷ 16`
+
+Add:
+
+`38 + 71 + 8 = 117`
+
+Now:
+
+`117 ÷ 16`
+
+`16 × 7 = 112`
+
+Remainder:
+
+`117 - 112 = 5`
+
+**Answer: 5**
+
+---
+
+## 5️⃣ Find the remainder:
+
+### `(123 × 124 × 125) ÷ 9`
+
+Take the remainders:
+
+`123 ÷ 9 → 6`
+
+`124 ÷ 9 → 7`
+
+`125 ÷ 9 → 8`
+
+Multiply:
+
+`6 × 7 × 8 = 336`
+
+Now:
+
+`336 ÷ 9 → Remainder = 3`
+
+**Answer: 3**
+
+---
+
+## 6️⃣ Find the remainder:
+
+### `7⁵ ÷ 4`
+
+`7 ÷ 4 → Remainder = 3`
+
+Therefore:
+
+`7⁵ ≡ 3⁵ (mod 4)`
+
+Since:
+
+`3² ≡ 1 (mod 4)`
+
+`3⁵ ≡ 3 (mod 4)`
+
+**Answer: 3**
+
+---
+
+## 7️⃣ Find the remainder:
+
+### `2⁷⁵ ÷ 5`
+
+Powers of 2 have a repeating remainder pattern modulo 5:
+
+`2¹ → 2`
+
+`2² → 4`
+
+`2³ → 3`
+
+`2⁴ → 1`
+
+The cycle length is `4`.
+
+`75 ÷ 4 → Remainder = 3`
+
+Therefore, use the 3rd position in the cycle:
+
+**Answer: 3**
+
+---
+
+## 8️⃣ Find the remainder:
+
+### `7¹²⁹ ÷ 5`
+
+Remainders of powers of 7 modulo 5:
+
+`7¹ → 2`
+
+`7² → 4`
+
+`7³ → 3`
+
+`7⁴ → 1`
+
+Cycle length = `4`
+
+`129 ÷ 4 → Remainder = 1`
+
+Therefore, use the 1st position:
+
+**Answer: 2**
+
+---
+
+## 9️⃣ Find the remainder:
+
+### `517⁵¹⁷ ÷ 5`
+
+`517 ÷ 5 → Remainder = 2`
+
+So:
+
+`517⁵¹⁷ ≡ 2⁵¹⁷ (mod 5)`
+
+The powers of 2 repeat every 4:
+
+`2, 4, 3, 1`
+
+`517 ÷ 4 → Remainder = 1`
+
+Therefore:
+
+**Answer: 2**
+
+---
+
+## 🔟 Find the remainder:
+
+### `2243¹⁶⁵ ÷ 5`
+
+`2243 ÷ 5 → Remainder = 3`
+
+So:
+
+`2243¹⁶⁵ ≡ 3¹⁶⁵ (mod 5)`
+
+Powers of 3 modulo 5:
+
+`3, 4, 2, 1`
+
+Cycle length = `4`
+
+`165 ÷ 4 → Remainder = 1`
+
+Therefore:
+
+**Answer: 3**
+
+---
+
+# 📊 Practice Summary
+
+| No. | Question | Answer |
+|---:|---|---:|
+| 1 | `23 ÷ 5` | **3** |
+| 2 | `17 ÷ 6` | **5** |
+| 3 | `(86 × 23) ÷ 11` | **9** |
+| 4 | `(38 + 71 + 8) ÷ 16` | **5** |
+| 5 | `(123 × 124 × 125) ÷ 9` | **3** |
+| 6 | `7⁵ ÷ 4` | **3** |
+| 7 | `2⁷⁵ ÷ 5` | **3** |
+| 8 | `7¹²⁹ ÷ 5` | **2** |
+| 9 | `517⁵¹⁷ ÷ 5` | **2** |
+| 10 | `2243¹⁶⁵ ÷ 5` | **3** |
+
+
+---
+
+**#Aptitude #QuantitativeAptitude #PlacementPreparation #Day4 #Remainders #RemainderTheorem #ProblemSolving #LearningInPublic #GitHubJourney**
