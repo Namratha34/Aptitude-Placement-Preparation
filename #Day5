@@ -1,0 +1,329 @@
+# 📚 Aptitude Preparation — Day 5
+
+## 🎯 Topic: Unit Digit
+
+Today I completed the topic **Unit Digit** as part of my Quantitative Aptitude preparation.
+
+The main focus was learning how to find the **last digit (unit digit) of a number or a large power** quickly without calculating the complete value.
+
+The topic was divided into **3 modules**.
+
+---
+
+# 📌 Module 1 — Basic Unit Digit Rules
+
+Some numbers have a fixed unit digit even when they are raised to any positive power.
+
+### 1️⃣ Zero
+
+`0ⁿ = 0`
+
+Therefore:
+
+**Unit digit = 0**
+
+Example:
+
+`0⁵ = 0`
+
+---
+
+### 2️⃣ One
+
+`1ⁿ = 1`
+
+Therefore:
+
+**Unit digit = 1**
+
+Example:
+
+`1¹⁰⁰ = 1`
+
+---
+
+### 3️⃣ Five
+
+Any positive power of 5 ends in 5.
+
+`5¹ = 5`  
+`5² = 25`  
+`5³ = 125`
+
+Therefore:
+
+**Unit digit = 5**
+
+---
+
+### 4️⃣ Six
+
+Any positive power of 6 ends in 6.
+
+`6¹ = 6`  
+`6² = 36`  
+`6³ = 216`
+
+Therefore:
+
+**Unit digit = 6**
+
+---
+
+# 📌 Module 2 — Odd & Even Power Tricks
+
+## 4️⃣ Powers of 4
+
+The unit digit alternates between:
+
+`4, 6, 4, 6, 4, 6...`
+
+Therefore:
+
+- **4 raised to an odd power → unit digit = 4**
+- **4 raised to an even power → unit digit = 6**
+
+### Examples:
+
+`4³ → 4`
+
+`4⁶ → 6`
+
+---
+
+## 9️⃣ Powers of 9
+
+The unit digit alternates between:
+
+`9, 1, 9, 1, 9, 1...`
+
+Therefore:
+
+- **9 raised to an odd power → unit digit = 9**
+- **9 raised to an even power → unit digit = 1**
+
+### Examples:
+
+`9⁵ → 9`
+
+`9⁸ → 1`
+
+---
+
+# 📌 Module 3 — Cyclicity of Unit Digits
+
+For numbers ending in:
+
+**2, 3, 7, or 8**
+
+the unit digit follows a cycle of **4**.
+
+Therefore, to find the unit digit of a large power:
+
+> **Divide the exponent by 4 and use the remainder to identify the position in the cycle.**
+
+---
+
+## 🔢 Number Ending in 2
+
+The unit-digit cycle is:
+
+`2 → 4 → 8 → 6`
+
+Cycle length = **4**
+
+Example:
+
+`2⁷`
+
+`7 ÷ 4 → Remainder = 3`
+
+3rd position in the cycle = **8**
+
+Therefore:
+
+**Unit digit = 8**
+
+---
+
+## 🔢 Number Ending in 3
+
+The unit-digit cycle is:
+
+`3 → 9 → 7 → 1`
+
+Cycle length = **4**
+
+Example:
+
+`3¹⁰`
+
+`10 ÷ 4 → Remainder = 2`
+
+2nd position = **9**
+
+Therefore:
+
+**Unit digit = 9**
+
+---
+
+## 🔢 Number Ending in 7
+
+The unit-digit cycle is:
+
+`7 → 9 → 3 → 1`
+
+Cycle length = **4**
+
+Example:
+
+`7¹¹`
+
+`11 ÷ 4 → Remainder = 3`
+
+3rd position = **3**
+
+Therefore:
+
+**Unit digit = 3**
+
+---
+
+## 🔢 Number Ending in 8
+
+The unit-digit cycle is:
+
+`8 → 4 → 2 → 6`
+
+Cycle length = **4**
+
+Example:
+
+`8¹³`
+
+`13 ÷ 4 → Remainder = 1`
+
+1st position = **8**
+
+Therefore:
+
+**Unit digit = 8**
+
+---
+
+# ⚠️ Important Rule When Remainder = 0
+
+If the exponent is exactly divisible by 4:
+
+`Exponent ÷ 4 → Remainder = 0`
+
+Use the **4th position** of the cycle.
+
+### Example:
+
+Find the unit digit of:
+
+`2⁸`
+
+`8 ÷ 4 → Remainder = 0`
+
+So use the **4th position** of:
+
+`2 → 4 → 8 → 6`
+
+Therefore:
+
+**Unit digit = 6**
+
+---
+
+# 🧠 Unit Digit Cheat Sheet
+
+| Base | Unit Digit Pattern |
+|---|---|
+| `0ⁿ` | **0** |
+| `1ⁿ` | **1** |
+| `5ⁿ` | **5** |
+| `6ⁿ` | **6** |
+| `4ⁿ` | Odd → **4**, Even → **6** |
+| `9ⁿ` | Odd → **9**, Even → **1** |
+| `2ⁿ` | `2, 4, 8, 6` |
+| `3ⁿ` | `3, 9, 7, 1` |
+| `7ⁿ` | `7, 9, 3, 1` |
+| `8ⁿ` | `8, 4, 2, 6` |
+
+---
+
+# 🚀 Placement Trick
+
+For bases ending in **2, 3, 7, or 8**:
+
+### Step 1
+Take the exponent.
+
+### Step 2
+Divide the exponent by `4`.
+
+### Step 3
+Check the remainder.
+
+- Remainder `1` → Take 1st number in the cycle
+- Remainder `2` → Take 2nd number
+- Remainder `3` → Take 3rd number
+- Remainder `0` → Take 4th number
+
+### Example:
+
+Find the unit digit of:
+
+`7²⁵`
+
+`25 ÷ 4 → Remainder = 1`
+
+Cycle of 7:
+
+`7 → 9 → 3 → 1`
+
+1st position = **7**
+
+Therefore:
+
+**Unit digit = 7**
+
+---
+
+# 📈 Progress
+
+### Phase 1 → Quantitative Aptitude → Number System
+
+- [x] Number System Basics
+- [x] Natural Numbers
+- [x] Whole Numbers
+- [x] Integers
+- [x] Even & Odd Numbers
+- [x] Prime & Composite Numbers
+- [x] Factors
+- [x] Multiples
+- [x] HCF
+- [x] LCM
+- [x] Divisibility Rules (2–19)
+- [x] Remainders
+- [x] Unit Digit
+- [ ] Last Digits
+
+---
+
+## 💡 Day 5 Takeaway
+
+Today I learned how to find the **unit digit of numbers and large powers** using fixed patterns, odd/even power rules, and cyclicity.
+
+The most important placement technique I learned today is:
+
+> **For numbers ending in 2, 3, 7, and 8, use the cycle of 4 and divide the exponent by 4 to find the required position.**
+
+> **Learn the pattern → Find the cycle → Apply the exponent → Get the unit digit 🚀**
+
+---
+
+**#Aptitude #QuantitativeAptitude #PlacementPreparation #Day5 #UnitDigit #NumberSystem #ProblemSolving #LearningInPublic #GitHubJourney**
