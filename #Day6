@@ -1,0 +1,297 @@
+# 📚 Aptitude Preparation — Day 6
+
+## 🎯 Topic: Last Two & Three Digits
+
+Today I completed the topic **Last Two & Three Digits** as part of my Quantitative Aptitude preparation.
+
+This topic builds on the concepts I learned earlier:
+
+- Remainders
+- Unit Digit
+- Cyclic Patterns
+
+The main goal is to find the **last 2 or 3 digits of a number or a large power without calculating the complete value**.
+
+---
+
+# 1️⃣ Understanding Last Digits
+
+### Unit Digit
+
+The unit digit is the **last 1 digit** of a number.
+
+Example:
+
+`57,384`
+
+Unit digit = **4**
+
+---
+
+### Last Two Digits
+
+The last two digits are the final two digits of a number.
+
+Example:
+
+`57,384`
+
+Last two digits = **84**
+
+---
+
+### Last Three Digits
+
+The last three digits are the final three digits of a number.
+
+Example:
+
+`57,384`
+
+Last three digits = **384**
+
+---
+
+# 2️⃣ Connection Between Last Digits and Remainders
+
+The last digits of a number can be found using remainders.
+
+### Last 1 Digit
+
+Divide by:
+
+**10**
+
+### Last 2 Digits
+
+Divide by:
+
+**100**
+
+### Last 3 Digits
+
+Divide by:
+
+**1000**
+
+---
+
+### Example — Last Two Digits
+
+Find the last two digits of:
+
+`3478`
+
+Divide by 100:
+
+`3478 ÷ 100`
+
+`100 × 34 = 3400`
+
+Remainder:
+
+`3478 - 3400 = 78`
+
+Therefore:
+
+**Last two digits = 78**
+
+---
+
+### Example — Last Three Digits
+
+Find the last three digits of:
+
+`12478`
+
+Divide by 1000:
+
+`12478 ÷ 1000`
+
+`1000 × 12 = 12000`
+
+Remainder:
+
+`12478 - 12000 = 478`
+
+Therefore:
+
+**Last three digits = 478**
+
+---
+
+# 3️⃣ Last Two Digits of Large Powers
+
+When the number is raised to a very large power, calculating the complete value is not practical.
+
+In such cases, we can look for a **cyclic pattern** in the last two digits.
+
+---
+
+### Example: Find the last two digits of `7¹⁰⁰`
+
+Calculate the first few powers:
+
+`7¹ = 07`
+
+`7² = 49`
+
+`7³ = 43`
+
+`7⁴ = 01`
+
+`7⁵ = 07`
+
+The pattern repeats:
+
+**07 → 49 → 43 → 01**
+
+Therefore, the cycle length is:
+
+**4**
+
+Now:
+
+`100 ÷ 4`
+
+Remainder = `0`
+
+When the remainder is `0`, take the **4th position** of the cycle.
+
+4th position = **01**
+
+Therefore:
+
+### ✅ Last two digits of `7¹⁰⁰ = 01`
+
+---
+
+# 4️⃣ Cyclic Pattern Method
+
+For large powers:
+
+### Step 1
+Calculate the last two digits of the first few powers.
+
+### Step 2
+Identify the repeating cycle.
+
+### Step 3
+Find the cycle length.
+
+### Step 4
+Divide the exponent by the cycle length.
+
+### Step 5
+Use the remainder to identify the required position.
+
+### Important:
+
+If the remainder is `0`, use the **last position of the cycle**.
+
+---
+
+# 5️⃣ Difference Between Unit Digit and Last Two Digits
+
+For **Unit Digit**, we only look at the last digit.
+
+Example:
+
+Powers of 7:
+
+`7 → 9 → 3 → 1`
+
+For **Last Two Digits**, we look at the final two digits.
+
+Example:
+
+Powers of 7:
+
+`07 → 49 → 43 → 01`
+
+Therefore:
+
+> **Do not directly use the unit-digit cycle when the question asks for the last two digits.**
+
+The cycle for the last two digits can be different.
+
+---
+
+# 6️⃣ Last Three Digits
+
+The same basic principle applies to the last three digits.
+
+### Last three digits = Remainder when divided by 1000
+
+Example:
+
+`123456 ÷ 1000`
+
+Remainder = `456`
+
+Therefore:
+
+**Last three digits = 456**
+
+For large powers, we can use remainder patterns and modular arithmetic to find the last three digits without calculating the complete number.
+
+---
+
+# 🧠 Quick Revision
+
+| Requirement | Use |
+|---|---|
+| Last 1 digit | Modulo `10` |
+| Last 2 digits | Modulo `100` |
+| Last 3 digits | Modulo `1000` |
+| Large powers | Find repeating pattern/cycle |
+| Remainder = 0 | Use the last position of the cycle |
+
+---
+
+# 🔥 Important Placement Takeaway
+
+The key idea learned today is:
+
+> **Last 2 digits → work with 100**
+
+> **Last 3 digits → work with 1000**
+
+For large powers:
+
+> **Find the repeating cycle → divide the exponent by the cycle length → use the required position.**
+
+---
+
+# 📈 Progress
+
+### Phase 1 → Quantitative Aptitude → Number System
+
+- [x] Number System Basics
+- [x] Natural Numbers
+- [x] Whole Numbers
+- [x] Integers
+- [x] Even & Odd Numbers
+- [x] Prime & Composite Numbers
+- [x] Factors
+- [x] Multiples
+- [x] HCF
+- [x] LCM
+- [x] Divisibility Rules (2–19)
+- [x] Remainders
+- [x] Unit Digit
+- [x] Last Two Digits
+- [x] Last Three Digits
+- [ ] Simplification
+
+---
+
+## 💡 Day 6 Takeaway
+
+Today I learned how to find the **last two and three digits of numbers and large powers** using remainders, modulo concepts, and cyclic patterns.
+
+> **Understand the pattern → Find the cycle → Apply the exponent → Get the required last digits. 🚀**
+
+---
+
+**#Aptitude #QuantitativeAptitude #PlacementPreparation #Day6 #LastDigits #LastTwoDigits #LastThreeDigits #NumberSystem #ProblemSolving #LearningInPublic #GitHubJourney**
