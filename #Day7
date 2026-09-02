@@ -1,0 +1,161 @@
+# 📘 Day 7 – Simplification: BODMAS (Level 1)
+
+## 🎯 Topic
+
+**Simplification – BODMAS**
+
+Today I started the **Simplification** module of my Aptitude Preparation journey.
+
+---
+
+## 📌 What is BODMAS?
+
+**BODMAS** is a rule used to determine the correct order of operations when solving mathematical expressions.
+
+### BODMAS Full Form
+
+| Letter | Meaning            |
+| ------ | ------------------ |
+| **B**  | Brackets           |
+| **O**  | Orders / Exponents |
+| **D**  | Division           |
+| **M**  | Multiplication     |
+| **A**  | Addition           |
+| **S**  | Subtraction        |
+
+So, the order is:
+
+**Brackets → Orders → Division → Multiplication → Addition → Subtraction**
+
+BODMAS has **7 operation levels**:
+
+1. Brackets
+2. Orders / Exponents
+3. Division
+4. Multiplication
+5. Addition
+6. Subtraction
+7. Following the order from left to right when operations have the same priority
+
+---
+
+## 🧠 Important Rule
+
+When solving a BODMAS expression:
+
+* Follow the correct order of operations.
+* **Division and multiplication have the same priority**, so solve them **from left to right**.
+* **Addition and subtraction have the same priority**, so solve them **from left to right**.
+* Do not simply solve the expression from left to right without following BODMAS.
+
+---
+
+## ✏️ Level 1 – Simple BODMAS Problems
+
+Today I practiced 7 basic BODMAS problems:
+
+### Problem 1
+
+**3 + 9 ÷ 3 × 2 − 5**
+
+### Problem 2
+
+**8 − 5 ÷ 5 × 4 + 3**
+
+### Problem 3
+
+**9 + 2 × 3 ÷ 1 − 5**
+
+### Problem 4
+
+**8 − 2 × 5 ÷ 1 + 3**
+
+### Problem 5
+
+**6 + 4 × 3 ÷ 2 − 1**
+
+### Problem 6
+
+**6 − 3 × 4 ÷ 2 + 1**
+
+### Problem 7
+
+**4 × 2 ÷ 1 + 7 − 3**
+
+---
+
+## 💡 Example of the BODMAS Method
+
+For:
+
+**3 + 9 ÷ 3 × 2 − 5**
+
+First solve **Division**:
+
+**9 ÷ 3 = 3**
+
+Now:
+
+**3 + 3 × 2 − 5**
+
+Then solve **Multiplication**:
+
+**3 × 2 = 6**
+
+Now:
+
+**3 + 6 − 5**
+
+Then solve from left to right:
+
+**3 + 6 = 9**
+
+**9 − 5 = 4**
+
+### ✅ Answer = 4
+
+---
+
+## 📚 What I Learned Today
+
+* Started the **Simplification** module.
+* Learned the full form of **BODMAS**.
+* Learned the correct order of mathematical operations.
+* Understood that **Division and Multiplication** are solved from left to right.
+* Understood that **Addition and Subtraction** are solved from left to right.
+* Practiced **7 Level-1 BODMAS problems**.
+
+---
+
+## 📈 Aptitude Progress
+
+### Phase 1 – Quantitative Aptitude
+
+* [x] Number System
+* [x] Factors & Multiples
+* [x] HCF & LCM
+* [x] Divisibility Rules
+* [x] Remainders
+* [x] Unit Digit
+* [x] Last Two & Three Digits
+* [x] Simplification – BODMAS Level 1
+* [ ] BODMAS – Advanced Levels
+* [ ] Fractions
+* [ ] Decimals
+* [ ] Squares & Cubes
+* [ ] Square & Cube Roots
+* [ ] Approximation
+
+---
+
+## 🎯 Today's Goal
+
+**Day 7 completed: Started Simplification and learned BODMAS Level 1.**
+
+> **Consistency beats intensity. One concept, one day, one step closer to placement. 🚀**
+
+---
+
+### 🏷️ Tags
+
+`#Aptitude #Day7 #Simplification #BODMAS #QuantitativeAptitude #PlacementPreparation #ProblemSolving #AptitudePreparation #PythonDeveloper #SoftwareDeveloper`
