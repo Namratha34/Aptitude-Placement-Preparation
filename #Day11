@@ -1,1 +1,79 @@
-..
+# 📘 Day 11 – Simplification: BODMAS (Level 5)
+
+## 🎯 Topic
+
+**Simplification – BODMAS Level 5**
+
+Today I continued the **Simplification** module of my Quantitative Aptitude preparation and completed **BODMAS Level 5**.
+
+This level involved expressions with **brackets and multiple arithmetic operations**, requiring careful application of the BODMAS order.
+
+---
+
+## 📌 BODMAS Rule
+
+**BODMAS** stands for:
+
+| Letter | Meaning            |
+| ------ | ------------------ |
+| **B**  | Brackets           |
+| **O**  | Orders / Exponents |
+| **D**  | Division           |
+| **M**  | Multiplication     |
+| **A**  | Addition           |
+| **S**  | Subtraction        |
+
+### Correct Order
+
+**Brackets → Orders → Division → Multiplication → Addition → Subtraction**
+
+When multiple operations have the same priority, they are evaluated **from left to right**.
+
+---
+
+# ✏️ Level 5 Practice
+
+Today I solved **7 BODMAS Level 5 questions**.
+
+### Question 1
+
+**27 ÷ 3 + 3 × (13 − 5 − 21)**
+
+### Question 2
+
+**39 + 8 × (31 − 26) + 6**
+
+### Question 3
+
+**5 × (10 + 34 − 3 × (26 + 5))**
+
+### Question 4
+
+**31 + (34 ÷ 4 − 3 × 12 − 1)**
+
+### Question 5
+
+**35 ÷ 7 + (12 × 11 − 7) + 12**
+
+### Question 6
+
+**33 + 24 × (34 − 23) + 12**
+
+### Question 7
+
+**4 × (13 + 19 + 32) − (5 × 31) − 11**
+
+---
+
+## 🧠 What I Practiced
+
+Today's Level 5 problems focused on:
+
+* Applying the **BODMAS rule** to longer expressions
+* Working with brackets containing multiple operations
+* Handling multiplication and division correctly
+* Solving nested expressions
+* Following the correct order of operations
+* Evaluating operations from **left to right** when they have equal priority
+* Breaking complex expressions into smaller steps
+
