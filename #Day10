@@ -1,1 +1,89 @@
-...
+# 📘 Day 10 – Simplification: BODMAS (Level 4)
+
+## 🎯 Topic
+
+**Simplification – BODMAS Level 4: Nested Brackets**
+
+After a short break of two days without solving aptitude problems, I restarted my preparation today and completed **BODMAS Level 4**.
+
+In this level, I practiced expressions involving **multiple/nested brackets**, along with multiplication, addition, and subtraction.
+
+---
+
+## 📌 BODMAS Rule
+
+**BODMAS** stands for:
+
+| Letter | Meaning            |
+| ------ | ------------------ |
+| **B**  | Brackets           |
+| **O**  | Orders / Exponents |
+| **D**  | Division           |
+| **M**  | Multiplication     |
+| **A**  | Addition           |
+| **S**  | Subtraction        |
+
+### Correct Order
+
+**Brackets → Orders → Division → Multiplication → Addition → Subtraction**
+
+When brackets are nested inside other brackets, the **innermost bracket is solved first**.
+
+---
+
+# ✏️ Level 4 Practice
+
+Today I solved **7 BODMAS Level 4 questions** involving multiple/nested brackets.
+
+### Question 1
+
+**60 − 3 × (4 + (2 + 3))**
+
+### Question 2
+
+**100 − 2 × (3 + (4 − 2))**
+
+### Question 3
+
+**80 + 4 × (1 + (5 − 2))**
+
+### Question 4
+
+**70 − 5 × (4 − (4 − (1 + 1)))**
+
+### Question 5
+
+**85 − 4 × (3 + 2 × (2 − 1))**
+
+### Question 6
+
+**95 + 5 × (2 − (1 − 1))**
+
+### Question 7
+
+**40 + 2 × (5 + (3 − 1))**
+
+---
+
+## 🧠 What I Practiced
+
+Today's Level 4 problems focused on:
+
+* Working with **multiple brackets**
+* Solving **nested brackets**
+* Identifying the innermost bracket
+* Applying BODMAS step by step
+* Performing multiplication after resolving brackets
+* Solving addition and subtraction in the correct order
+* Breaking complex expressions into simpler expressions
+
+---
+
+## 📚 What I Learned Today
+
+* Continued the **Simplification** module.
+* Completed **BODMAS Level 4**.
+* Practiced expressions containing **nested brackets**.
+* Learned to solve the **innermost bracket first**.
+* Solved **7 Level 4 problems**.
+* Restarted my aptitude practice after a short two-day break.
