@@ -1,1 +1,212 @@
-..
+# 📘 Day 14 – Simplification: Fractions – Introduction
+
+## 🎯 Topic
+
+**Simplification – Introduction to Fractions**
+
+Today I continued the **Simplification** module of my Quantitative Aptitude preparation and learned the basic concepts of **Fractions**.
+
+---
+
+## 📌 What is a Fraction?
+
+A **fraction** represents a part of a whole.
+
+A fraction is written in the form:
+
+**a/b**
+
+Where:
+
+* **a** = Numerator
+* **b** = Denominator
+* **b ≠ 0**
+
+### Example:
+
+**3/5**
+
+Here:
+
+* **3** → Numerator
+* **5** → Denominator
+
+---
+
+## 🔢 Numerator
+
+The **numerator** is the number written **above the fraction line**.
+
+It represents the number of parts being considered.
+
+Example:
+
+**3/7**
+
+Here, **3 is the numerator**.
+
+---
+
+## 🔢 Denominator
+
+The **denominator** is the number written **below the fraction line**.
+
+It represents the total number of equal parts into which the whole is divided.
+
+Example:
+
+**3/7**
+
+Here, **7 is the denominator**.
+
+> ⚠️ The denominator of a fraction can never be zero.
+
+---
+
+# 1️⃣ Proper Fraction
+
+A **proper fraction** is a fraction in which the **numerator is smaller than the denominator**.
+
+### Example:
+
+**2/5**
+
+Since:
+
+**2 < 5**
+
+Therefore, **2/5 is a proper fraction**.
+
+### Examples:
+
+* 1/3
+* 4/7
+* 5/9
+* 7/10
+
+A proper fraction is always **less than 1**.
+
+---
+
+# 2️⃣ Improper Fraction
+
+An **improper fraction** is a fraction in which the **numerator is greater than or equal to the denominator**.
+
+### Examples:
+
+**7/4**
+
+Since:
+
+**7 > 4**
+
+Therefore, **7/4 is an improper fraction**.
+
+Another example:
+
+**5/5 = 1**
+
+Since the numerator is equal to the denominator, it is also an improper fraction.
+
+### Examples:
+
+* 7/4
+* 9/5
+* 11/6
+* 8/8
+
+An improper fraction is **greater than or equal to 1**.
+
+---
+
+# 3️⃣ Mixed Fraction
+
+A **mixed fraction** (mixed number) contains:
+
+**A whole number + a proper fraction**
+
+### Example:
+
+**2 1/3**
+
+Here:
+
+* **2** → Whole number
+* **1/3** → Proper fraction
+
+Therefore, **2 1/3 is a mixed fraction**.
+
+### More Examples:
+
+* 1 2/5
+* 3 1/4
+* 5 3/7
+* 7 2/9
+
+---
+
+## 🔄 Converting Mixed Fraction to Improper Fraction
+
+The formula is:
+
+**Improper Fraction = (Whole Number × Denominator + Numerator) / Denominator**
+
+### Example:
+
+Convert:
+
+**2 1/3**
+
+Step 1:
+
+**2 × 3 = 6**
+
+Step 2:
+
+**6 + 1 = 7**
+
+Step 3:
+
+**7/3**
+
+Therefore:
+
+**2 1/3 = 7/3**
+
+---
+
+## 🔄 Converting Improper Fraction to Mixed Fraction
+
+To convert an improper fraction into a mixed fraction:
+
+1. Divide the numerator by the denominator.
+2. The quotient becomes the whole number.
+3. The remainder becomes the numerator.
+4. The denominator remains the same.
+
+### Example:
+
+Convert:
+
+**7/3**
+
+**7 ÷ 3 = 2 remainder 1**
+
+Therefore:
+
+**7/3 = 2 1/3**
+
+---
+
+# ✏️ Practice
+
+Today I also solved **basic problems based on fractions**, including:
+
+* Identifying numerator and denominator
+* Identifying proper fractions
+* Identifying improper fractions
+* Identifying mixed fractions
+* Basic fraction conversions
+* Basic fraction-related questions
+
+-
