@@ -1,1 +1,194 @@
-..
+# 📘 Day 13 – Simplification: Fractions – Basics
+
+## 🎯 Topic
+
+**Simplification – Fractions**
+
+After completing all **7 levels of BODMAS**, I started the next topic in the Simplification module: **Fractions**.
+
+Today I completed the basic concepts of fractions and learned how to compare different fractions.
+
+---
+
+## 📌 What is a Fraction?
+
+A **fraction** represents a part of a whole.
+
+A fraction is written as:
+
+**a / b**
+
+Where:
+
+* **a** → Numerator
+* **b** → Denominator
+* **b ≠ 0**
+
+Example:
+
+**3/5**
+
+Here, **3** is the numerator and **5** is the denominator.
+
+---
+
+# 1️⃣ Equivalent Fractions
+
+**Equivalent fractions** are fractions that have different numerators and denominators but represent the **same value**.
+
+### Example:
+
+**1/2 = 2/4 = 3/6 = 4/8**
+
+We can obtain an equivalent fraction by multiplying or dividing both the numerator and denominator by the **same non-zero number**.
+
+Example:
+
+**2/3 × 2/2 = 4/6**
+
+Therefore:
+
+**2/3 = 4/6**
+
+---
+
+# 2️⃣ Simplest Fraction
+
+A fraction is in its **simplest form** when the numerator and denominator have **no common factor other than 1**.
+
+### Example:
+
+**8/12**
+
+The HCF of 8 and 12 is 4.
+
+Divide both by 4:
+
+**8 ÷ 4 / 12 ÷ 4 = 2/3**
+
+Therefore:
+
+**8/12 = 2/3**
+
+So, **2/3 is the simplest form**.
+
+### 🧠 Shortcut
+
+To simplify a fraction:
+
+**Divide the numerator and denominator by their HCF.**
+
+---
+
+# 3️⃣ Like Fractions
+
+Fractions having the **same denominator** are called **like fractions**.
+
+### Examples:
+
+**2/7, 5/7, 6/7**
+
+All have the denominator **7**, so they are like fractions.
+
+---
+
+# 4️⃣ Unlike Fractions
+
+Fractions having **different denominators** are called **unlike fractions**.
+
+### Examples:
+
+**1/2, 2/3, 3/5**
+
+Their denominators are different, so they are unlike fractions.
+
+---
+
+# 5️⃣ Converting Unlike Fractions into Like Fractions
+
+To convert unlike fractions into like fractions, we find the **LCM of their denominators**.
+
+### Example:
+
+Convert:
+
+**1/3 and 1/4**
+
+into like fractions.
+
+### Step 1: Find LCM
+
+LCM of **3 and 4 = 12**
+
+### Step 2: Convert each fraction
+
+**1/3 = 4/12**
+
+**1/4 = 3/12**
+
+Therefore:
+
+**1/3 and 1/4 → 4/12 and 3/12**
+
+Now they are **like fractions** because they have the same denominator.
+
+---
+
+# 6️⃣ Comparing Fractions
+
+Comparing fractions means determining which fraction is:
+
+* Greater
+* Smaller
+* Equal
+
+### Example 1: Same Denominator
+
+Compare:
+
+**5/8 and 3/8**
+
+Since the denominators are the same, compare the numerators:
+
+**5 > 3**
+
+Therefore:
+
+**5/8 > 3/8**
+
+---
+
+### Example 2: Different Denominators
+
+Compare:
+
+**2/3 and 3/5**
+
+Cross multiply:
+
+**2 × 5 = 10**
+
+**3 × 3 = 9**
+
+Since:
+
+**10 > 9**
+
+Therefore:
+
+**2/3 > 3/5**
+
+### 🧠 Cross-Multiplication Trick
+
+For:
+
+**a/b and c/d**
+
+Compare:
+
+**a × d** and **c × b**
+
+* If **a × d > c × b**, then **a/b > c/d**
+* If **a × d < c × b**, then **a/b < c/d**
+* If **a × d = c × b**, then the fractions are equal.
+
