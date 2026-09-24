@@ -1,1 +1,60 @@
-...
+# 📘 Day 12 – Simplification: BODMAS (Level 7)
+
+## 🎯 Topic
+
+**Simplification – BODMAS Level 7: Advanced Mixed Operations**
+
+Today I completed the **final Level 7 of BODMAS** as part of my Quantitative Aptitude preparation.
+
+This level combined the concepts learned in the previous levels, including **powers/orders, brackets, multiple brackets, nested brackets, and sub-brackets**, along with different arithmetic operations.
+
+---
+
+## 📌 BODMAS Rule
+
+**BODMAS** stands for:
+
+| Letter | Meaning                     |
+| ------ | --------------------------- |
+| **B**  | Brackets                    |
+| **O**  | Orders / Powers / Exponents |
+| **D**  | Division                    |
+| **M**  | Multiplication              |
+| **A**  | Addition                    |
+| **S**  | Subtraction                 |
+
+### Correct Order
+
+**Brackets → Orders → Division → Multiplication → Addition → Subtraction**
+
+When operations have the same priority, they are solved **from left to right**.
+
+---
+
+## 🔥 Level 7 – Advanced BODMAS
+
+Level 7 combines multiple BODMAS concepts in the same expression.
+
+The questions practiced today included:
+
+* **Powers / Orders**
+* **Brackets**
+* **Multiple brackets**
+* **Nested brackets**
+* **Sub-brackets**
+* Multiple arithmetic operations
+* Division and multiplication
+* Addition and subtraction
+
+### 🧠 Main Approach
+
+For complex BODMAS expressions:
+
+1. Identify the **innermost bracket**.
+2. Solve the innermost bracket first.
+3. Continue outward through the nested brackets.
+4. Solve **orders/powers** at the appropriate stage.
+5. Perform division and multiplication from **left to right**.
+6. Perform addition and subtraction from **left to right**.
+7. Check the final answer carefully.
+
